@@ -2,3 +2,4 @@ gdy666/lucky:latest
 messense/aliyundrive-webdav:latest
 qdtoday/qd:latest
 advplyr/audiobookshelf:latest
+vaultwarden/server
