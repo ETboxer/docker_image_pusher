@@ -3,3 +3,4 @@ messense/aliyundrive-webdav:latest
 qdtoday/qd:latest
 advplyr/audiobookshelf:latest
 vaultwarden/server
+joplin/server
