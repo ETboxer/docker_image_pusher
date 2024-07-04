@@ -11,3 +11,4 @@ dezhao/tachidesk_cn:latest
 hanxi/xiaomusic:latest
 xhofe/alist:latest
 xhongc/music_tag_web:latest
+qdtoday/qd:latest
