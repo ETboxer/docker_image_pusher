@@ -4,4 +4,4 @@ qdtoday/qd:latest
 advplyr/audiobookshelf:latest
 vaultwarden/server:latest
 joplin/server:latest
-postgres/postgres:latest
+postgres
