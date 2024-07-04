@@ -5,3 +5,6 @@ advplyr/audiobookshelf:latest
 vaultwarden/server:latest
 joplin/server:latest
 postgres
+portainer/portainer:latest
+qdtoday/qd:latest
+dezhao/tachidesk_cn:latest
