@@ -1,5 +1,4 @@
 gdy666/lucky:latest
-messense/aliyundrive-webdav:latest
 advplyr/audiobookshelf:latest
 vaultwarden/server:latest
 joplin/server:latest
@@ -10,4 +9,4 @@ hanxi/xiaomusic:latest
 xhofe/alist:latest
 xhongc/music_tag_web:latest
 ddsderek/tachidesk:latest
-qdtoday/qd:dev
+qdtoday/qd:deV
