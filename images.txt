@@ -5,11 +5,9 @@ vaultwarden/server:latest
 joplin/server:latest
 postgres
 portainer/portainer:latest
-qdtoday/qd:latest
 dezhao/tachidesk_cn:latest
 hanxi/xiaomusic:latest
 xhofe/alist:latest
 xhongc/music_tag_web:latest
 ddsderek/tachidesk:latest
-qdtoday/qd:latest
 qdtoday/qd:dev
