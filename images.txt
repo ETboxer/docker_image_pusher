@@ -12,3 +12,4 @@ xhofe/alist:latest
 xhongc/music_tag_web:latest
 ddsderek/tachidesk:latest
 qdtoday/qd:latest
+qdtoday/qd:dev
