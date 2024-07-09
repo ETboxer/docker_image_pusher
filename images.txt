@@ -10,3 +10,4 @@ xhofe/alist:latest
 xhongc/music_tag_web:latest
 ddsderek/tachidesk:latest
 qdtoday/qd:dev
+wjf0214/qd-templates
