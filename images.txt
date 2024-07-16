@@ -12,4 +12,4 @@ ddsderek/tachidesk:latest
 qdtoday/qd:dev
 wjf0214/qd-templates
 hectorqin/reader：latest
-talebook/talebook
+talebook/talebook:latest
