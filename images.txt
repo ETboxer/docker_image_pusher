@@ -1,1 +1,1 @@
-xiaoya-alist:latest
+xiaoya-alist
