@@ -1,2 +1,2 @@
-DIYgod/RSSHub
-FreshRSS/FreshRSS
+diygod/rsshub:latest
+freshrss/freshrss:latest
