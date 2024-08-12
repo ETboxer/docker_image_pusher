@@ -1,2 +1,3 @@
 xiaoyaliu/alist:latest
 hsuyelin/nas-tools
+FreshRSS/FreshRSS
