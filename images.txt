@@ -1,3 +1,2 @@
-hsuyelin/nas-tools
-FreshRSS/FreshRSS
 DIYgod/RSSHub
+FreshRSS/FreshRSS
