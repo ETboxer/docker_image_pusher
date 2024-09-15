@@ -2,3 +2,4 @@ diygod/rsshub:latest
 freshrss/freshrss:latest
 linuxserver/freshrss:latest
 fooololo/aipan-netdisk-search
+johngong/baidunetdisk:latest
