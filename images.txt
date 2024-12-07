@@ -3,3 +3,4 @@ freshrss/freshrss:latest
 linuxserver/freshrss:latest
 fooololo/aipan-netdisk-search
 johngong/baidunetdisk:latest
+deluan/navidrome:latest
