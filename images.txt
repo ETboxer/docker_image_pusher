@@ -5,3 +5,4 @@ fooololo/aipan-netdisk-search
 johngong/baidunetdisk:latest
 deluan/navidrome:latest
 p3terx/aria2-pro:latest
+aria2/aria2
