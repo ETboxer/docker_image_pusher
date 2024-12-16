@@ -1,9 +1,1 @@
-diygod/rsshub:latest
-freshrss/freshrss:latest
-linuxserver/freshrss:latest
-fooololo/aipan-netdisk-search
-johngong/baidunetdisk:latest
-deluan/navidrome:latest
-p3terx/aria2-pro:latest
-aria2/aria2
-power721/alist-tvbox
+power721/alist-tvbox:latest
