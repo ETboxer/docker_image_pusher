@@ -1,1 +1,1 @@
-power721/alist-tvbox:latest
+haroldli/xiaoya-tvbox:latest
