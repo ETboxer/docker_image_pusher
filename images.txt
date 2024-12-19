@@ -1,1 +1,1 @@
-power721/alist-tvbox:latest
+power721/alist-tvbox.git:latest
