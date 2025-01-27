@@ -1,1 +1,1 @@
-power721/alist-tvbox
+jericx/syncclipboard-server:latest
