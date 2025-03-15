@@ -1,1 +1,2 @@
 jericx/syncclipboard-server:latest
+halohub/halo:latest
