@@ -1,1 +1,1 @@
-halo-dev/halo
+halohub/halo:2.20
