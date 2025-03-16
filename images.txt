@@ -1,2 +1,3 @@
 jericx/syncclipboard-server:latest
 halohub/halo:latest
+halohub/halo:2.20
