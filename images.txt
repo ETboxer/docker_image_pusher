@@ -1,1 +1,1 @@
-qd-today/qd
+qdtoday/qd:dev
