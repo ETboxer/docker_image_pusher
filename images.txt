@@ -1,1 +1,1 @@
-qdtoday/qd:dev
+docker.io/qdtoday/qd:20250129
