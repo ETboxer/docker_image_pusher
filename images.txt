@@ -1,1 +1,1 @@
-Suwayomi/Suwayomi-Server
+ghcr.io/suwayomi/tachidesk:stable
