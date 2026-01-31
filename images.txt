@@ -1,1 +1,1 @@
-ghcr.io/suwayomi/tachidesk:stable
+raphzhang/zirconlegend:latest
