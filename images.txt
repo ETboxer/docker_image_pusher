@@ -1,1 +1,1 @@
-raphzhang/zirconlegend:latest
+itzg/minecraft-server
