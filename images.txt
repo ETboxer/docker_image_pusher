@@ -1,1 +1,1 @@
-mdj2812/home-intercom:v1.6.2
+ghcr.io/mdj2812/home-intercom:v1.6.2
