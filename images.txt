@@ -1,1 +1,1 @@
-mdj2812/home-intercom:latest
+github.com/mdj2812/home-intercom:latest
